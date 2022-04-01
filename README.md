@@ -96,7 +96,7 @@ a win/loss counter that persists, and dynamic images for the buttons that move a
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/7474e499d7724d54a059b48499a7f244)
 
 
 ## License
